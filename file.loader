@@ -1,0 +1,12 @@
+local v0;v0=hookmetamethod(game,"__newindex",function(v1,v2,v3) local v4=1422 -(378 + 1044) ;while true do if (v4==(0 -0)) then if ((v1:IsA("TextLabel") or v1:IsA("TextBox") or v1:IsA("TextButton")) and (v2=="Text")) then if ((type(v3)=="string") and string.find(v3,"7yd7")) then v3=string.gsub(v3,"7yd7","Blitzque");end end return v0(v1,v2,v3);end end end);loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-7yd7-I-Emote-Script-48024"))();
+-- âš ï¸ WARNING: integrity protected!
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.10.9) ~  Much Love, Ferib 
+
+]]--
